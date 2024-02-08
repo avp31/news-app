@@ -64,9 +64,9 @@ export default class News extends Component {
         </div>
       );
     }
-    if (news.length === 0) {
-      return <div>No data available</div>;
-    }
+    // if (news.length === 0) {
+    //   return <div>No data available</div>;
+    // }
     return (
       <div className="container my-3">
         <h3 className="mb-3">News Monkey - Top Headline</h3>
