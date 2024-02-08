@@ -1,0 +1,33 @@
+Your API key is: 55c1534659ba4910aa0335e4e80919fc
+
+
+const news = [
+      {
+        id: 1,
+        title: "title1",
+        description: "Description1",
+        imageUrl:
+          "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LMQ7N5NQCTBFIRH6LNM7ZYB6EI.JPG&w=1440",
+      },
+      {
+        id: 2,
+        title: "title2",
+        description: "Description1",
+        imageUrl:
+          "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LMQ7N5NQCTBFIRH6LNM7ZYB6EI.JPG&w=1440",
+      },
+      {
+        id: 3,
+        title: "title3",
+        description: "Description1",
+        imageUrl:
+          "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LMQ7N5NQCTBFIRH6LNM7ZYB6EI.JPG&w=1440",
+      },
+      {
+        id: 4,
+        title: "title4",
+        description: "Description1",
+        imageUrl:
+          "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LMQ7N5NQCTBFIRH6LNM7ZYB6EI.JPG&w=1440",
+      },
+    ];
